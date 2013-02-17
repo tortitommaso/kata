@@ -7,15 +7,15 @@ import java.util.List;
 
 import org.junit.Test;
 
-public class EvolutionAlgorithmTest extends EvolutionaryAlgorithm {
+public class EvolutionaryAlgorithmTest {
 
 	@Test
 	public void testFitnesse() {
-		EvolutionaryAlgorithm evolutionAlgorithm = new EvolutionaryAlgorithm();
-		assertEquals(3, evolutionAlgorithm.fitnesse("abc", "abc"));
-		assertEquals(2, evolutionAlgorithm.fitnesse("abc", "acc"));
-		assertEquals(1, evolutionAlgorithm.fitnesse("abc", "gbo"));
-		assertEquals(0, evolutionAlgorithm.fitnesse("abc", "xxx"));
+		EvolutionaryAlgorithm evolutionaryAlgorithm = new EvolutionaryAlgorithm();
+		assertEquals(3, evolutionaryAlgorithm.fitnesse("abc", "abc"));
+		assertEquals(2, evolutionaryAlgorithm.fitnesse("abc", "acc"));
+		assertEquals(1, evolutionaryAlgorithm.fitnesse("abc", "gbo"));
+		assertEquals(0, evolutionaryAlgorithm.fitnesse("abc", "xxx"));
 	}
 	
 	@Test
