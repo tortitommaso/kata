@@ -1,0 +1,14 @@
+http://rosettacode.org/wiki/Evolutionary_algorithm
+
+Example of output:
+
+After 1 loop, our best candidate is <MECHIEKA IT IF LPKE A NEGSEL> with a fitnesse value of (21 / 28)
+After 2 loop, our best candidate is <METHINKS IT IS LIRE A WEASEL> with a fitnesse value of (27 / 28)
+After 3 loop, our best candidate is <TEMHINKS IT IS LIKE A FESSEL> with a fitnesse value of (24 / 28)
+After 4 loop, our best candidate is <METHIFKNBMTHIS LRKE A WEAFEL> with a fitnesse value of (21 / 28)
+After 5 loop, our best candidate is <MHTHIUKS IF NFOABKE AEWVASIH> with a fitnesse value of (16 / 28)
+After 6 loop, our best candidate is <EETHINKSFVT ISSLTKSTA WEASEL> with a fitnesse value of (21 / 28)
+After 7 loop, our best candidate is <METHIRKSSITEIZ LIKE A WEASEL> with a fitnesse value of (24 / 28)
+After 8 loop, our best candidate is <METIINKS IT IS LIKE A WEASEL> with a fitnesse value of (27 / 28)
+After 9 loop, our best candidate is <METHINKS IT IS LIKE A WEASEL> with a fitnesse value of (28 / 28)
+
