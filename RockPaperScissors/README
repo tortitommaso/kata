@@ -1,0 +1,4 @@
+Rock , Scissors, Paper game implemented by Tommaso Torti.
+
+Run it with the command: 
+java -cp bin/ program.MainProgram
